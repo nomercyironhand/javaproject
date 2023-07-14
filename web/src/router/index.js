@@ -7,6 +7,13 @@ import NotFound   from "@/views/error/NotFound"
 
 
 const routes = [
+  
+  {
+    path:"/",
+    name:"home",
+    redirect:"/pk/"
+  },
+
   {
     path:"/pk/",
     name:"pk_index",
@@ -37,6 +44,12 @@ const routes = [
     component :NotFound,
 
   },
+
+  {
+    path:"/:catchAll(.*)",
+    redirect:"/404/"
+
+  }
 
 ]
 
