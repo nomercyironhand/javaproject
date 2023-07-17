@@ -7,3 +7,5 @@
 ##### 写了一下标签页跳转路由router，尚未实现,待续
 ##### 2023/7/14 22：00 
 ##### router跳转实现，同时通过router-link 标签进行局部刷新，即刷新导航栏varbar。
+##### 2023/7/17/23：00
+##### 通过bootstrap 引入card样式，并在compoent中写入CompoentField样式，复制到各个页面
