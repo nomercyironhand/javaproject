@@ -1,7 +1,7 @@
 <template>
 
         
-<ContentField>排行榜</ContentField>
+<ContentField>对战</ContentField>
 
 </template>
 
