@@ -9,3 +9,5 @@
 ##### router跳转实现，同时通过router-link 标签进行局部刷新，即刷新导航栏varbar。
 ##### 2023/7/17/23：00
 ##### 通过bootstrap 引入card样式，并在compoent中写入CompoentField样式，复制到各个页面
+##### 2023/7/18/23：00
+##### 实现点击对应导航栏高亮，完成varbar实现，进入下一步。
